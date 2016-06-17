@@ -96,7 +96,7 @@ void on_item3_selected(MenuItem* p_menu_item)
 
 void serialPrintHelp() {
   Serial.println("***************");
-  Serial.println("w: go to previus item (up)");
+  Serial.println("w: go to previous item (up)");
   Serial.println("s: go to next item (down)");
   Serial.println("a: go back (right)");
   Serial.println("d: select \"selected\" item");
